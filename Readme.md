@@ -2,14 +2,14 @@
 
 ## Links a las diferentes clases:
 
-### Comandos Clase 1: 
+### [Comandos Clase 1:] 
 
-*ActividadesClase1.md*
+*(ActividadesClase1.md)*
 
-### Comandos Clase 2: 
+### [Comandos Clase 2:] 
 
-*ActividadesClase2.md*
+*(ActividadesClase2.md)*
 
-### Comandos Clase 3: 
+### [Comandos Clase 3:] 
 
-*ActividadesClase3.md*
+*(ActividadesClase3.md)*
