@@ -88,7 +88,7 @@ Ejemplo para utilizar de Body
 
 > Obtener todas las ventas (GET): http://localhost:8080/sales
 
-> Listar una nueva venta (POST): http://localhost:8080/products
+> Listar una nueva venta (POST): http://localhost:8080/sales
 
 ```js
 Ejemplo para utilizar de Body
